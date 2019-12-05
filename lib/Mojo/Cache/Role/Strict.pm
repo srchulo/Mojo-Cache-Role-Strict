@@ -5,7 +5,7 @@ use Role::Tiny;
 
 with 'Mojo::Cache::Role::Exists';
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 before get => sub { Carp::confess "unknown key '$_[1]'" unless $_[0]->exists($_[1]) };
 
