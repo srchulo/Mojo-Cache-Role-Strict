@@ -4,7 +4,7 @@ use Carp ();
 
 with 'Mojo::Cache::Role::Exists';
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 has [qw(strict_get strict_set)] => 1;
 
