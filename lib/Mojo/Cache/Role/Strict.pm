@@ -27,7 +27,7 @@ Mojo::Cache::Role::Strict - Limit get to keys that exist and prevent calls to se
 
 =head1 STATUS
 
-=for html <a href="https://travis-ci.org/srchulo/Mojo-Cache-Role-Strict"><img src="https://travis-ci.org/srchulo/Mojo-Cache-Role-Strict.svg?branch=master"></a>
+=for html <a href="https://travis-ci.org/srchulo/Mojo-Cache-Role-Strict"><img src="https://travis-ci.org/srchulo/Mojo-Cache-Role-Strict.svg?branch=master"></a> <a href='https://coveralls.io/github/srchulo/Mojo-Cache-Role-Strict?branch=master'><img src='https://coveralls.io/repos/github/srchulo/Mojo-Cache-Role-Strict/badge.svg?branch=master' alt='Coverage Status' /></a>
 
 =head1 SYNOPSIS
 

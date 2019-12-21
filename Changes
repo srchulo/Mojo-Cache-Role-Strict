@@ -1,6 +1,8 @@
 Revision history for Mojo-Cache-Role-Strict
 
 {{$NEXT}}
+        - Use App::CISetup for .travis.yml
+        - Add coveralls.io
 
 0.03  2019-12-21 16:33:26 CST
         - Added strict_get and strict_set.
