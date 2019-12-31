@@ -1,6 +1,7 @@
 Revision history for Mojo-Cache-Role-Strict
 
 {{$NEXT}}
+        - Add Mojolicious dependency.
 
 0.04  2019-12-21 16:37:03 CST
         - Use App::CISetup for .travis.yml
